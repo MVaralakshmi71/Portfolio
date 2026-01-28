@@ -24,8 +24,3 @@ Designed with a **dark/light theme toggle**, smooth animations, and an elegant U
 - **CSS3** – Custom styling, animations, gradients, responsive layouts
 - **JavaScript (Vanilla JS)** – Interactivity & dynamic behavior
 - **Google Fonts** – Work Sans & Crimson Pro
-
----
-
-## 📂 Project Structure
-
