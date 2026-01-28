@@ -5,14 +5,6 @@ Designed with a **dark/light theme toggle**, smooth animations, and an elegant U
 
 ---
 
-## 🚀 Live Preview
-You can deploy this project easily using:
-- GitHub Pages  
-- Netlify  
-- Vercel  
-
----
-
 ## 📌 Features
 
 - 🎨 **Dark & Light Theme Toggle** (saved using Local Storage)
